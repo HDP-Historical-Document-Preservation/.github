@@ -1,12 +1,5 @@
-## Criei o README da organização 👋
-<h2>Mudanças ainda não foram feitas</h2>
-<!--
+#<h1> HDP (Historical Document Preservation) <img src="https://github.com/HDP-Historical-Document-Preservation/Site_Institucional/blob/main/logoHDP.jpeg" alt="logoHDP" height="45px"><h1/>
 
-**Here are some ideas to get you started:**
+<p></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
