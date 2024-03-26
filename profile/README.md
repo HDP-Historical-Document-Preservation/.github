@@ -1,4 +1,4 @@
-<img src="[https://github.com/HDP-Historical-Document-Preservation/Site_Institucional/blob/main/Design/logoHDP.jpeg](https://github.com/HDP-Historical-Document-Preservation/FrontEnd/blob/main/img/logoHDP.jpeg)" alt="logoHDP" height="100px">
+<img src="[[https://github.com/HDP-Historical-Document-Preservation/Site_Institucional/blob/main/Design/logoHDP.jpeg](https://github.com/HDP-Historical-Document-Preservation/FrontEnd/blob/main/img/logoHDP.jpeg)](https://github.com/HDP-Historical-Document-Preservation/FrontEnd/blob/main/img/logoHDP.jpeg?raw=true)" alt="logoHDP" height="100px">
 
 <h1>HDP (Historical Document Preservation) 📖</h1>
 
