@@ -24,8 +24,7 @@
 
 ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow) 
 
-Equipe Atual - Anne Caroline, Bruna Reginato, Diego Crispim, Gustavo Presilli, Isadora Piffer, Júlia Apolinario, Luiza Câmara.
+Equipe Atual - Beatriz Fernandes, Bruna Reginato, Vinícius Miralha, Gabriel Cerejo, Felipe Patroni, Kamilly Poggi.
 
-<sub> Copyright ©️ 2024 - Anne Caroline, Bruna Reginato, Diego Crispim, Gustavo Presilli, Isadora Piffer, 
-Júlia Apolinario, Luiza Câmara </sub>
+<sub> Copyright ©️ 2024 - Beatriz Fernandes, Bruna Reginato, Vinícius Miralha, Gabriel Cerejo, Felipe Patroni, Kamilly Poggi </sub>
 
